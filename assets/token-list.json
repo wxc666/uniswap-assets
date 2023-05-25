@@ -5,7 +5,7 @@
 		"testnet"
 	],
 	"tags": {},
-	"timestamp": "2020-09-01T00:00:00+00:00",
+	"timestamp": "2023-05-25T14:21:00+00:00",
 	"tokens": [
 		{
 			"chainId": 30068,
@@ -13,7 +13,7 @@
 			"symbol": "AAA",
 			"name": "AAA",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/A.png",
+			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/a.png",
 			"tags": []
 		},
 		{
@@ -22,13 +22,13 @@
 			"symbol": "BBB",
 			"name": "BBB",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/B.png",
+			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/b.png",
 			"tags": []
 		}
 	],
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 0
+		"patch": 1
 	}
 }
