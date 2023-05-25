@@ -13,7 +13,7 @@
 			"symbol": "AAA",
 			"name": "AAA",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/A.png",
+			"logoURI": "ipfs://QmX1jR3PxfMfzTNv5YTEALZrrdZVxXj2CNWyyafdyboTev",
 			"tags": []
 		},
 		{
@@ -22,7 +22,7 @@
 			"symbol": "BBB",
 			"name": "BBB",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/B.png",
+			"logoURI": "ipfs://QmX1jR3PxfMfzTNv5YTEALZrrdZVxXj2CNWyyafdyboTev",
 			"tags": []
 		}
 	],
