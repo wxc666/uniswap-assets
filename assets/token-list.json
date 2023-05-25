@@ -1,11 +1,11 @@
 {
-	"name": "Testnet Token List",
+	"name": "XPLUS Testnet Token List",
 	"logoURI": "ipfs://QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
 	"keywords": [
 		"testnet"
 	],
 	"tags": {},
-	"timestamp": "2023-05-25T14:21:00+00:00",
+	"timestamp": "2023-05-25T14:27:00+00:00",
 	"tokens": [
 		{
 			"chainId": 30068,
@@ -29,6 +29,6 @@
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 1
+		"patch": 2
 	}
 }
