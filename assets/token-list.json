@@ -9,7 +9,7 @@
 	"tokens": [
 		{
 			"chainId": 30068,
-			"address": "0x02Ab965C2B957d462A1f7F7315C30A5540318410",
+			"address": "0x02ab965c2b957d462a1f7f7315c30a5540318410",
 			"symbol": "AAA",
 			"name": "AAA",
 			"decimals": 18,
@@ -18,17 +18,35 @@
 		},
 		{
 			"chainId": 30068,
-			"address": "0xd2fC94de1caA3Ba1351b00F5b3026a957f1F0961",
+			"address": "0xd2fc94de1caa3ba1351b00f5b3026a957f1f0961",
 			"symbol": "BBB",
 			"name": "BBB",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/b.png",
+			"tags": []
+		},
+		{
+			"chainId": 30068,
+			"address": "0x636f52cc5bb6bf4936f3f5e6de3c08b8f0786cd8",
+			"symbol": "CCC",
+			"name": "CCC",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/c.png",
+			"tags": []
+		},
+		{
+			"chainId": 30068,
+			"address": "0xbd53e5bcdf663b27114f0ddfe135cda9ebb2b4f3",
+			"symbol": "DDD",
+			"name": "DDD",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/wxc666/uniswap/main/assets/img/d.png",
 			"tags": []
 		}
 	],
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 4
+		"patch": 5
 	}
 }
