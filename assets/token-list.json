@@ -1,0 +1,34 @@
+{
+	"name": "Testnet Token List",
+	"logoURI": "ipfs://QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
+	"keywords": [
+		"testnet"
+	],
+	"tags": {},
+	"timestamp": "2020-09-01T00:00:00+00:00",
+	"tokens": [
+		{
+			"chainId": 30068,
+			"address": "0x02Ab965C2B957d462A1f7F7315C30A5540318410",
+			"symbol": "AAA",
+			"name": "AAA",
+			"decimals": 18,
+			"logoURI": "ipfs://QmX1jR3PxfMfzTNv5YTEALZrrdZVxXj2CNWyyafdyboTev",
+			"tags": []
+		},
+		{
+			"chainId": 30068,
+			"address": "0xd2fC94de1caA3Ba1351b00F5b3026a957f1F0961",
+			"symbol": "BBB",
+			"name": "BBB",
+			"decimals": 18,
+			"logoURI": "ipfs://QmX1jR3PxfMfzTNv5YTEALZrrdZVxXj2CNWyyafdyboTev",
+			"tags": []
+		}
+	],
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	}
+}
