@@ -1,5 +1,5 @@
 {
-	"name": "XPLUS Testnet Token List",
+	"name": "Testnet Token List",
 	"logoURI": "ipfs://QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
 	"keywords": [
 		"testnet"
@@ -29,6 +29,6 @@
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 2
+		"patch": 3
 	}
 }
